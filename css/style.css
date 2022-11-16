@@ -26,6 +26,11 @@ body {
     background: var(--very-light-gray);
 }
 
+main {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
 .section {
     display: flex;
     flex-direction: column;
